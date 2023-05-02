@@ -19,6 +19,9 @@ public class TwoDimArrEx {
         int[][] arr = new int[3][3];
 
         insertValue(arr,1);
+        insertValue(arr,1);
+        insertValue(arr,1);
+        insertValue(arr,1);
 
         printArray(arr);
 
